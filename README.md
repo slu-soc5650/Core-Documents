@@ -2,10 +2,13 @@
 
 ### Repository Contents
 This repository contains files for:
+  - `reading-list.pdf`
   - `syllabus.pdf`
   - `LICENSE.md`
   - `README.md`
   - `.gitignore`
+
+This repository also contains the [course wiki](https://github.com/slu-soc5650/Core-Documents/wiki).
 
 ### About SOC 5050: Introduction to Geographic Information Sciences
 This class introduces both the theoretical and technical skills that constitute the nascent field of Geographic Information Science (GISc). Techniques introduced include data cleaning and management, map production and cartography, and the manipulation of both tabular and spatial data. The impact of GISc on public policy, and the effect of public policy on GISc, are also discussed. The course incorporates a wide variety of social, economic, health, urban, and environmental data. These data are mapped at a variety of extents, from individual cities to multi-county regions, all United States counties, and U.S. states themselves. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines.
