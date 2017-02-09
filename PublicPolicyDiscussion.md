@@ -22,3 +22,4 @@ All class members are expected to interact with each of the weekly Slack channel
   - a direct response to or answer to one of the questions or
   - a follow-up question or a clarifying question that respond directly to the original questions posted by the discussion leader.
   
+You are also free to respond to a comment, answer , or ask a follow-up question based on a classmate's response.
