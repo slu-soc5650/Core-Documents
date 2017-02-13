@@ -22,4 +22,7 @@ All class members are expected to interact with each of the weekly Slack channel
   - a direct response to or answer to one of the questions or
   - a follow-up question or a clarifying question that respond directly to the original questions posted by the discussion leader.
   
-You are also free to respond to a comment, answer , or ask a follow-up question based on a classmate's response.
+You are also free to respond to a comment, answer , or ask a follow-up question based on a classmate's response. **Please respond by Monday evening before class.**
+
+## Class Discussion
+After submissions have been made on Slack, the discussion leader should read through questions / comments and synthesize them. Discussion leaders should come to class prepared to give a brief overview of the case studies themselves and to summarize what your classmates' thoughts and questions were.
