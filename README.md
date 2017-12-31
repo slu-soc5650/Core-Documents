@@ -13,7 +13,7 @@ This repository contains files for:
 
 There are three core resources for this course. The **Syllabus** sets out core expectations and policies for the course. The **Reading List** contains topics, readings (both required and optional), and assignment due dates for each week. These two documents spell out what is required for this course, and both of them are included in this repository. The third core resource is the [course website](https://slu-soc5650.github.io).
 
-### About SOC 4930 & 5050: Quantitative Analysis
+### About SOC 4650 & 5650: Introduction to GIS
 This class introduces both the theoretical and technical skills that constitute the nascent field of Geographic Information Science (GISc). Techniques introduced include data cleaning and management, map production and cartography, and the manipulation of both tabular and spatial data. The impacts of GISc on public policy, and the effects of public policy on GISc, are also discussed. The course incorporates a wide variety of social, economic, health, urban, meteorological, and environmental data. These data are mapped at a variety of extents, from the City of St. Louis to the St. Louis Metropolitan region, Missouri, all United States counties, and all U.S. states. More details are available on the [course website](https://slu-soc5650.github.io).
 
 ### About Christopher Prener, Ph.D.
