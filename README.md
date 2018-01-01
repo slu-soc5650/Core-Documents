@@ -1,6 +1,6 @@
 Core-Documents <img src="https://slu-soc5650.github.io/images/logo.png" align="right" />
 ===========================================================
-![](https://img.shields.io/badge/semester-Spring%2C%202018-blue.svg) ![](https://img.shields.io/badge/release-draft-orange.svg)
+![](https://img.shields.io/badge/semester-Spring%2C%202018-blue.svg) ![](https://img.shields.io/badge/release-draft-orange.svg) ![](https://img.shields.io/github/last-commit/slu-soc5650/Core-Documents.svg) ![](https://img.shields.io/github/repo-size/slu-soc5650/Core-Documents.svg)
 
 ### Repository Contents
 This repository contains files for:
