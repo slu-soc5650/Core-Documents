@@ -1,6 +1,10 @@
 Core-Documents <img src="https://slu-soc5650.github.io/images/logo.png" align="right" />
 ===========================================================
-![](https://img.shields.io/badge/semester-Spring%2C%202018-blue.svg) ![](https://img.shields.io/badge/release-draft-orange.svg) ![](https://img.shields.io/github/last-commit/slu-soc5650/Core-Documents.svg) ![](https://img.shields.io/github/repo-size/slu-soc5650/Core-Documents.svg)
+[![](https://img.shields.io/badge/semester-Spring%2C%202018-blue.svg)](https://github.com/slu-soc5650/Core-Documents)
+[![](https://img.shields.io/badge/release-draft-orange.svg)](https://github.com/slu-soc5650/Core-Documents)
+[![](https://img.shields.io/github/release/slu-soc5650/Core-Documents.svg?label=version)](https://github.com/slu-soc5650/Core-Documents/releases)
+[![](https://img.shields.io/github/last-commit/slu-soc5650/Core-Documents.svg)](https://github.com/slu-soc5650/Core-Documents/commits/master)
+[![](https://img.shields.io/github/repo-size/slu-soc5650/Core-Documents.svg)](https://github.com/slu-soc5650/Core-Documents)
 
 ### Repository Contents
 This repository contains files for:
@@ -9,6 +13,7 @@ This repository contains files for:
   - `syllabus.pdf`
   - `.gitignore`
   - `LICENSE.md`
+  - `NEWS.md`
   - `README.md`
 
 There are three core resources for this course. The **Syllabus** sets out core expectations and policies for the course. The **Reading List** contains topics, readings (both required and optional), and assignment due dates for each week. These two documents spell out what is required for this course, and both of them are included in this repository. The third core resource is the [course website](https://slu-soc5650.github.io).
