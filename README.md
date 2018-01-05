@@ -1,7 +1,7 @@
 Core-Documents <img src="https://slu-soc5650.github.io/images/logo.png" align="right" />
 ===========================================================
 [![](https://img.shields.io/badge/semester-spring%202018-orange.svg)](https://github.com/slu-soc5650/Core-Documents)
-[![](https://img.shields.io/badge/release-draft-red.svg)](https://github.com/slu-soc5650/Core-Documents)
+[![](https://img.shields.io/badge/release-full-brightgreen.svg)](https://github.com/slu-soc5650/Core-Documents)
 [![](https://img.shields.io/github/release/slu-soc5650/Core-Documents.svg?label=version)](https://github.com/slu-soc5650/Core-Documents/releases)
 [![](https://img.shields.io/github/last-commit/slu-soc5650/Core-Documents.svg)](https://github.com/slu-soc5650/Core-Documents/commits/master)
 [![](https://img.shields.io/github/repo-size/slu-soc5650/Core-Documents.svg)](https://github.com/slu-soc5650/Core-Documents)
