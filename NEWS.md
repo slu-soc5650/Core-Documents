@@ -1,3 +1,8 @@
+# Core-Documents v18.3.1
+
+* Adjust dates of GISc and Public Policy readings for weeks 2 through 7
+* Adjust chapters for [Sociospatial Data Science](http://chris-prener.github.io/SSDSBook/) on Week 2
+
 # Core-Documents v18.3.0
 
 * Add `NEWS.md`
