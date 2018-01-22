@@ -1,3 +1,8 @@
+# Core-Documents v18.4.0
+
+* Added Brandon's office hours to `syllabus.pdf`
+* Added the `3600MorrisseySchedule.pdf` file, which represents a sample week for the Spring 2018 semester. The R Seminars do not occur any week, but do occur on several weeks throughout the semester.
+
 # Core-Documents v18.3.1
 
 * Adjust dates of GISc and Public Policy readings for weeks 2 through 7
@@ -12,5 +17,4 @@
 
 # Core-Documents v18.1.1
 
-## Changes
 This is the draft release of the `Core-Documents` repository. The `reading-list.pdf` file still needs some small updates to reflect readings from [Sociospatial Data Science](http://chris-prener.github.io/SSDSBook/).
