@@ -1,3 +1,7 @@
+# Core-Documents v18.4.1  
+
+* Add `publicPolicyDiscuss.md` to the repo, which contains instructions for the GIS and Public Policy discussions for both students and facilitators. 
+
 # Core-Documents v18.4.0
 
 * Added Brandon's office hours to `syllabus.pdf`
